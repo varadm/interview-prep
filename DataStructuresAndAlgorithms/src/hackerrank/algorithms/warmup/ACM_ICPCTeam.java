@@ -104,6 +104,7 @@ public class ACM_ICPCTeam {
 	}
 	/**
 	 * The following piece of code was n^2. And was horrible in timing.
+	 * 
 	 * <pre>
 	 * <code>
 	 *  public static void main(String[] args) {
