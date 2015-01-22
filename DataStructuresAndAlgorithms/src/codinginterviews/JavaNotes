@@ -1,0 +1,23 @@
+Some important notes-
+
+===
+What are the uses of finalize, finally, and final in Java?
+1. finalize() - We define specific actions in the method of finalize that will occur 
+when an object is about to be reclaimed by the garbage collector.
+
+2. finally - The keyword finally is related to the exception handling mechanism. 
+The finally block always executes when the corresponding try block exists. 
+This ensures that the finally block is executed even if an unexpected exception occurs. 
+Usually, the finally block contains code to clean up resources.
+
+3. final - No inheritance from a final class.
+No overriding of a final method 
+final variable can be initialized once and it cannot be changed.
+===
+
+===Data Containers===
+Collections and Maps
+
+Collection - LinkedLists, Stack. 
+Maps - HashMaps.
+
